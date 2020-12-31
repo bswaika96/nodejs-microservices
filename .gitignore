@@ -1,0 +1,15 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependencies
+node_modules/
+
+# Environment Variables
+.env
+.env.test
+
+# Optional NPM Cache
+.npm
+
